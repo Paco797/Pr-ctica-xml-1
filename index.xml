@@ -1,0 +1,70 @@
+<oferta>
+    <librerías>
+        <amazon>
+            <libro>
+                <título>Introducción a XML</título>
+                <precio>10</precio>
+                <nivel>Principiante</nivel>
+                <autor-es>Jhon Romero</autor-es>
+                <fecha_de_publicación>10/11/2012</fecha_de_publicación>
+                <editorial>Tecnolibros</editorial>
+                <CódigoISBN>123121S1</CódigoISBN>
+            </libro>
+
+            <libro>
+                <título>Uso de XML a nivel de ofimática</título>
+                <precio>13</precio>
+                <nivel>Intermedio</nivel>
+                <autor-es>William Gibson</autor-es>
+                <fecha_de_publicación>15/2/2009</fecha_de_publicación>
+                <editorial>InfoComputacional</editorial>
+                <CódigoISBN>87281X87</CódigoISBN>
+            </libro>
+
+            <libro>
+                <título>XML avanzado</título>
+                <precio>20</precio>
+                <nivel>Avanzado</nivel>
+                <autor-es>Guillermo Puertas</autor-es>
+                <fecha_de_publicación>3/5/2014</fecha_de_publicación>
+                <editorial>Macrolibros</editorial>
+                <CódigoISBN>12ZNU22192</CódigoISBN>
+            </libro>
+        </amazon>
+        
+        <casa_del_libro>
+            <libro>
+                <título>Desarrollo en XML</título>
+                <precio>15</precio>
+                <nivel>intermedio</nivel>
+                <autor-es>Juan Karmack</autor-es>
+                <fecha_de_publicación>7/1/2009</fecha_de_publicación>
+                <editorial>IDlibros</editorial>
+                <CódigoISBN>1288SN81</CódigoISBN>
+            </libro>
+
+            <libro>
+                <título>XML aplicado a macroservidores</título>
+                <precio>27</precio>
+                <nivel>Profesional</nivel>
+                <autor-es>Esteban Trabajos</autor-es>
+                <fecha_de_publicación>20/2/2015</fecha_de_publicación>
+                <editorial>Manzana</editorial>
+                <CódigoISBN>2912JH2391</CódigoISBN>
+                
+            </libro>
+
+            <libro>
+                <título>BladeXML</título>
+                <precio>20</precio>
+                <nivel>Profesional</nivel>
+                <autor-es>Felipe K.Dick</autor-es>
+                <fecha_de_publicación>30/4/2019</fecha_de_publicación>
+                <editorial>Asimov</editorial>
+                <CódigoISBN>12SNX80982</CódigoISBN>
+            </libro>
+        </casa_del_libro>
+
+    </librerías>
+   
+</oferta>
