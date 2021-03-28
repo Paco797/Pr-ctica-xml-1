@@ -1,0 +1,57 @@
+<música>
+    <disco>
+        <título>A Hard Day's Night</título>
+        <artista-grupo>The Beatles</artista-grupo>
+        <numero_de_canciones>13</numero_de_canciones>
+        <canciones>
+            1-A Hard Day's Night
+            2-I Should Have Known Better
+            3-If I fell
+            4-I'm Happy Just To Dance With You
+            5-And I love Her
+            6-Tell Me why
+            7-Can't Buy Me love
+            8-Any Time At All
+            9-I'll Cry Instead
+            10-Things We Said Today
+            11-When I Get Home
+            12-You Can't Do That
+            13-I'll Be Back 
+        </canciones>
+        <sello_discográfico>Parlophone</sello_discográfico>
+        <empresa_de_grabación>EMI RECORDS LTD</empresa_de_grabación>
+        <isbn>97777-46437-26</isbn>
+        <banda_sonora_de>A Hard Day's Night</banda_sonora_de>
+        <música_y_letra>John Lennon y Paul McCartney</música_y_letra>
+    </disco>
+
+    <disco>
+        <título>Abbey Road N</título>
+        <artista-grupo>The Beatles</artista-grupo>
+        <numero_de_canciones>17</numero_de_canciones>
+        <canciones>
+            1-Come Togheter
+            2-Something
+            3-Maxwell's Silver Hamer
+            4-Oh! Darling
+            5-Octopus's Garden
+            6-I Want You (She's So Heavy)
+            7-Here Comes The Sun
+            8-Because
+            9-You Never Give Me Your Money
+            10-Sun King
+            11-Mean Mr Mustarda
+            12-Polythepe Pam
+            13-She Came In
+            14-Golden Slumbers
+            15-Carry That Weight
+            16-The end
+            17-Her Majesty
+        </canciones>
+        <sello_discográfico>Apple Discography</sello_discográfico>
+        <empresa_de_grabación>EMI RECORDS LTD</empresa_de_grabación>
+        <calidad_de_audio>Estereo</calidad_de_audio>
+        <isbn>97777-464462-4</isbn>
+
+    </disco>
+</música>
