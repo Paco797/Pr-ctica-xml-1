@@ -4,6 +4,7 @@
             <libro>
                 <título>Introducción a XML</título>
                 <precio>10</precio>
+                <tematica>XML</tematica>
                 <nivel>Principiante</nivel>
                 <autor-es>Jhon Romero</autor-es>
                 <fecha_de_publicación>10/11/2012</fecha_de_publicación>
@@ -24,6 +25,7 @@
             <libro>
                 <título>XML avanzado</título>
                 <precio>20</precio>
+                <tematica>XML</tematica>
                 <nivel>Avanzado</nivel>
                 <autor-es>Guillermo Puertas</autor-es>
                 <fecha_de_publicación>3/5/2014</fecha_de_publicación>
@@ -36,6 +38,7 @@
             <libro>
                 <título>Desarrollo en XML</título>
                 <precio>15</precio>
+                <tematica>XML</tematica>
                 <nivel>intermedio</nivel>
                 <autor-es>Juan Karmack</autor-es>
                 <fecha_de_publicación>7/1/2009</fecha_de_publicación>
@@ -46,6 +49,7 @@
             <libro>
                 <título>XML aplicado a macroservidores</título>
                 <precio>27</precio>
+                <tematica>XML</tematica>
                 <nivel>Profesional</nivel>
                 <autor-es>Esteban Trabajos</autor-es>
                 <fecha_de_publicación>20/2/2015</fecha_de_publicación>
@@ -57,6 +61,7 @@
             <libro>
                 <título>BladeXML</título>
                 <precio>20</precio>
+                <tematica>XML</tematica>
                 <nivel>Profesional</nivel>
                 <autor-es>Felipe K.Dick</autor-es>
                 <fecha_de_publicación>30/4/2019</fecha_de_publicación>
